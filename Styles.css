@@ -199,7 +199,7 @@ h1{
 
 
 .grid-item {
-    background-color: orange;
+    background-color: darkcyan;
     padding: 20px;
     text-align: center;
     border: 9px solid #ccc;
@@ -207,7 +207,7 @@ h1{
 }
 
 .grid-item2 {
-    background-color: green;
+    background-color: grey;
     padding: 20px;
     text-align: center;
     border: 9px solid #ccc;
@@ -215,7 +215,7 @@ h1{
 }
 
 .grid-itemy {
-    background-color:coral;
+    background-color:grey;
     padding: 20px;
     text-align: center;
     border: 9px solid #ccc;
